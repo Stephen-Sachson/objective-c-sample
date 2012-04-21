@@ -1,0 +1,72 @@
+﻿/* Cell 3 */
+"   Book" = "   预定";
+
+/* Cell */
+"   Food" = "   饮食";
+
+/* Cell 2 */
+"   Location" = "   位置";
+
+/* Copyright declare */
+" </p><p>Copyright© 2012 Stephen Sachson</p><p> All rights reserved." = " </p><p>Copyright© 2012 Stephen Sachson</p><p> 最终解释权归本人所有";
+
+/* About Button */
+"About" = "关于";
+
+/* Cancel Button */
+"Alright" = "行";
+
+/* Navigation Bar Button */
+"Back2Main" = "回刚才那儿";
+
+/* Tool Bar Title */
+"Chinese" = "中餐";
+
+/* Cancel Button 2 */
+"Drat!" = "我操！";
+
+/* Description 2 */
+"find your way" = "帮你找到他";
+
+/* Section Footer */
+"Have a really feast" = "祝您用餐愉快";
+
+/* Section Header 2 */
+"Hotel" = "酒店下榻";
+
+/* Description 5 */
+"hurry, no room for ya" = "赶快，赶快！";
+
+/* Description 3 */
+"let's go" = "去用餐啦～～";
+
+/* No comment provided by engineer. */
+"Other" = "其他";
+
+/* Alert title */
+"Reminder" = "提示";
+
+/* Section Header */
+"Resturant" = "饮食";
+
+/* message */
+"Sorry, this function is not currently available." = "唔好意思，而家冇呢噶功能咗。";
+
+/* Map title */
+"Spot!" = "定位";
+
+/* Description */
+"stimulate your tongue" = "饕餮盛宴";
+
+/* Section Footer 2 */
+"Take a break" = "休息下，睡个好觉";
+
+/* No comment provided by engineer. */
+"Western" = "西餐";
+
+/* Description 4 */
+"where is it" = "需要叫车吗？";
+
+/* Food title */
+"Yummy!" = "爽爆！";
+
